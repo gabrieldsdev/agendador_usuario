@@ -1,4 +1,4 @@
-package com.gabriel.crudspringboot.infrastructure.exceptions;
+package com.javanauta.usuario.infrastructure.exceptions;
 
 public class ConflictException extends RuntimeException{
 
